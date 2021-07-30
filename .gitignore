@@ -1,0 +1,5 @@
+node_modules
+.prettiererrc.json
+coverage
+coverage.json
+build

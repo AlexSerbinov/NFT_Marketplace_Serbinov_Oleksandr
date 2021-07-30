@@ -1,0 +1,29 @@
+{
+  "name": "NFT_Marketplace_Serbinov_Oleksandr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.2",
+    "solidity-coverage": "^0.7.16",
+    "truffle-plugin-verify": "^0.5.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexSerbinov/NFT_Marketplace_Serbinov_Oleksandr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexSerbinov/NFT_Marketplace_Serbinov_Oleksandr/issues"
+  },
+  "homepage": "https://github.com/AlexSerbinov/NFT_Marketplace_Serbinov_Oleksandr#readme"
+}
